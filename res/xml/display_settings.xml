@@ -193,7 +193,7 @@
             android:key="network_traffic_state"
             android:title="@string/network_traffic_state_title"
             android:summary="@string/network_traffic_state_summary"
-            android:fragment="com.p404.fragments.NetworkTraffic"
+            android:fragment="com.android.settings.p404.fragments.NetworkTraffic"
             android:defaultValue="false" />
     </PreferenceCategory>
 </PreferenceScreen>
