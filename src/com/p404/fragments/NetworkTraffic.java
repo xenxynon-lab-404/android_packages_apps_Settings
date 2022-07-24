@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.p404.fragments;
+package com.android.settings.p404.fragments;
 
 import android.os.Bundle;
 import android.provider.Settings;
